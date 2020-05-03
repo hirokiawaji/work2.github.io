@@ -117,7 +117,7 @@ h1{
 
 @media(max-width:1000px){
   .main li{
-    width:100%;
+    width:80%;
   }
 }
 @media(max-width:750px){
